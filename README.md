@@ -21,7 +21,7 @@ Input the value you want to change, end with enter
 After the server change the paramenter, it will return a messeage `Send Successfully!`  
 ![image](https://github.com/pyaixy/Artificial-Pancreas/blob/master/picture/4.PNG) 
 #### 3.Change_setpoint  
-Input command `Get_Data`, then the server will return `Set Model---1 for setpoint /2 for set range;`  
+Input command `Change_setpoint`, then the server will return `Set Model---1 for setpoint /2 for set range;`  
 Select the model you want PID to work, then the server will return `Cin Setpoint` or `Cin UperLimits and LowerLimits`  
 Input the value you want to set, end with enter  
 After the server change the setpoint, it will return a messeage `Send Successfully!`  
